@@ -83,7 +83,8 @@ margin: 6px 10px 10px 20px;
 }
 
 .center {
-    text-align: center;
+    text-align:center;
+    line-height: 50px;
     font-size: 80px;
     text-decoration: rgb(78, 24, 2);
     text-shadow: 5px 5px 3px rgb(245, 144, 12);
